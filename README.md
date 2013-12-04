@@ -27,5 +27,5 @@ the content folder and put a file called example.js there, created by concatenat
 
 - push_to_s3.sh
 
-To push new files (from the _content_ folder) to the static.mindmup.com bucket on S3, use _push_to_s3.sh_. Invoke it with --dryrun to just see the files that will be uploaded. This script
+To push new files (from the _content_ folder) to the static.mindmup.com bucket on S3, use push_to_s3.sh. Invoke it with --dryrun to just see the files that will be uploaded. This script
 depends on the [AWS command line tools](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html).
