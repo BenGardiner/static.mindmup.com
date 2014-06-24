@@ -3,3 +3,6 @@ mkdir -p content/$ts
 for c in pack/*; do 
   cat `cat $c`> content/$ts/$(basename $c)
 done
+wd=`pwd`
+rm -rf ./content/pack_latest
+ln -s $wd/content/$ts $wd/content/pack_latest
