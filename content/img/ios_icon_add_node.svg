@@ -24,10 +24,7 @@
       <path d="M250,275 C180.964,275 125,219.036 125,150 C125,80.964 180.964,25 250,25 C319.036,25 375,80.964 375,150 C375,219.036 319.036,275 250,275 z" fill="#1F9FD1"/>
       <path d="M250,275 C180.964,275 125,219.036 125,150 C125,80.964 180.964,25 250,25 C319.036,25 375,80.964 375,150 C375,219.036 319.036,275 250,275 z" fill-opacity="0" stroke="#000000" stroke-width="20"/>
     </g>
-    <path d="M306.89,86.268 L226.443,167.066" fill-opacity="0" stroke="#000000" stroke-width="40"/>
-    <g>
-      <path d="M182.5,205 L202.538,160.103 L230.549,188.018 z" fill="#1F9FD1"/>
-      <path d="M182.5,205 L202.538,160.103 L230.549,188.018 z" fill-opacity="0" stroke="#000000" stroke-width="4"/>
-    </g>
+    <path d="M250.5,100 L249.5,200" fill-opacity="0" stroke="#000000" stroke-width="30" stroke-linecap="round"/>
+    <path d="M200.002,149.304 L299.998,150.696" fill-opacity="0" stroke="#000000" stroke-width="30" stroke-linecap="round"/>
   </g>
 </svg>
