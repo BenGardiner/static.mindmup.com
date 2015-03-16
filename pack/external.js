@@ -7,3 +7,5 @@ content/lib/jquery.colorPicker.min.js
 content/lib/hammer-1.1.3.min.js
 content/lib/jquery.hammer-1.1.3.min.js
 content/lib/jquery.hotkeys.js
+content/lib/google-media-uploader-20140522.js
+
